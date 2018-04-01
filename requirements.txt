@@ -1,1 +1,5 @@
-spacy==2.0.10
+python-twitter==3.4.1
+tweet-preprocessor==0.4.0
+pytextrank==1.1.0
+spacy==1.8.2 # fixing pytextrank https://github.com/ceteri/pytextrank/issues/13
+networkx==1.11 # fixing pytextrank https://github.com/ceteri/pytextrank/issues/13
